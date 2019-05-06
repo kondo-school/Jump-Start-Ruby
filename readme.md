@@ -16,3 +16,7 @@ Carlos Gonzalez es un desarrollador...
 
 - [Introducción - Capitulo I](./001.md)
 - [Entradas y salidas - Capitulo II](./002.md)
+    - Obteniendo datos del usuario
+    - Arreglos
+    - Objetos
+- [Estructuras de control](./003.md)
